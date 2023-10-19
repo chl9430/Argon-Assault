@@ -542,10 +542,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 5467385076005301501, guid: 25b153a45be823b44967dcb110764837, type: 3}
-      propertyPath: looping
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 6768087950877039517, guid: 25b153a45be823b44967dcb110764837, type: 3}
       propertyPath: m_Name
       value: Player Rig
