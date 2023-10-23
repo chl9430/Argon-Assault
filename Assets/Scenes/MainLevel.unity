@@ -282,8 +282,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   deathVFX: {fileID: 5553245560613464324, guid: bf4552f82221b174abefc61695d4ddcb, type: 3}
+  hitVFX: {fileID: 5553245560613464324, guid: da5b3c193c883714a8531789d1f42342, type: 3}
   parent: {fileID: 1823903024}
   scorePerHit: 15
+  hitPoints: 2
 --- !u!136 &1012004162
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -602,8 +604,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   deathVFX: {fileID: 5553245560613464324, guid: bf4552f82221b174abefc61695d4ddcb, type: 3}
+  hitVFX: {fileID: 5553245560613464324, guid: da5b3c193c883714a8531789d1f42342, type: 3}
   parent: {fileID: 1823903024}
   scorePerHit: 15
+  hitPoints: 2
 --- !u!136 &1545587807
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -833,8 +837,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   deathVFX: {fileID: 5553245560613464324, guid: bf4552f82221b174abefc61695d4ddcb, type: 3}
+  hitVFX: {fileID: 5553245560613464324, guid: da5b3c193c883714a8531789d1f42342, type: 3}
   parent: {fileID: 1823903024}
   scorePerHit: 15
+  hitPoints: 10
 --- !u!4 &1823903024 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4674793077435721847, guid: 343b960b89a1d264a9dd2c14eb48abfc, type: 3}
@@ -961,8 +967,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   deathVFX: {fileID: 5553245560613464324, guid: bf4552f82221b174abefc61695d4ddcb, type: 3}
+  hitVFX: {fileID: 5553245560613464324, guid: da5b3c193c883714a8531789d1f42342, type: 3}
   parent: {fileID: 1823903024}
   scorePerHit: 15
+  hitPoints: 2
 --- !u!1 &1982736700
 GameObject:
   m_ObjectHideFlags: 0
@@ -996,8 +1004,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   deathVFX: {fileID: 5553245560613464324, guid: bf4552f82221b174abefc61695d4ddcb, type: 3}
+  hitVFX: {fileID: 5553245560613464324, guid: da5b3c193c883714a8531789d1f42342, type: 3}
   parent: {fileID: 1823903024}
   scorePerHit: 15
+  hitPoints: 2
 --- !u!136 &1982736702
 CapsuleCollider:
   m_ObjectHideFlags: 0
